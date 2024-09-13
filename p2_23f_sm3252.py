@@ -1,6 +1,3 @@
-#Name: Stephanie McCarten
-#UCID: sm3252
-#CS341-009
 
 import sys;
 
