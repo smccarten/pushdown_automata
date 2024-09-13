@@ -1,0 +1,2005 @@
+Project 2 for CS 341 009
+Semester: Fall 2023
+Written by: Stephanie McCarten, sm3252
+Instructor: Marvin Nakayama, marvin@njit.edu
+
+%#43.51386>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  5
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  6
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  >
+%  Popped from the stack.
+Nothing pushed onto the stack
+Now in state q6
+
+Expression Accepted
+
+%#.78+27.-3.013/837.842+>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  >
+
+The PDA crashed, expression rejected.
+
+%#48622.+.41*1.2/00.1/521.23-.9+.53/7.>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  6
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  5
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  5
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  >
+%  Popped from the stack.
+Nothing pushed onto the stack
+Now in state q6
+
+Expression Accepted
+
+%#382.89*14>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  >
+
+The PDA crashed, expression rejected.
+
+%#4.91-.*17.9>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  >
+%  Popped from the stack.
+Nothing pushed onto the stack
+Now in state q6
+
+Expression Accepted
+
+%#44.88.6+3.208>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  .
+
+The PDA crashed, expression rejected.
+
+%#(1.2+(3.5-.9)/19).3>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read 1
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read 3
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  5
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  )
+
+The PDA crashed, expression rejected.
+
+%#(.4)64>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read .
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: 6
+
+The PDA crashed, expression rejected.
+
+%#((824.23+(9.22-00.0)*21.2))+((.2/7.))>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read (
+
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q2
+
+In state q3
+Symbol Read 8
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read 9
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read (
+
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q2
+
+In state q3
+Symbol Read .
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: >
+%  Popped from the stack
+Nothing pushed onto the satck
+Now in state q6
+
+Expression Accepted
+
+%#(())>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read (
+
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q2
+
+In state q3
+Symbol Read )
+
+The PDA crashed, expression rejected.
+
+%#((14.252+(692.211*(.39+492.1))/49.235)>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read (
+
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q2
+
+In state q3
+Symbol Read 1
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  5
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read 6
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read .
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  4
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  5
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: >
+
+The PDA crashed, expression rejected.
+
+%#+6.5>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  +
+
+The PDA crashed, expression rejected.
+
+%#26.0*(.87/((4.+.2)/(23.1)-2.9)+6.)/(((823.*.333-57.*8.0)/.33+.0))>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  6
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read .
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read (
+
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q2
+
+In state q3
+Symbol Read 4
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read 2
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  1
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  6
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read (
+
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q2
+
+In state q3
+Symbol Read (
+
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q2
+
+In state q3
+Symbol Read 8
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  5
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  3
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: >
+%  Popped from the stack
+Nothing pushed onto the satck
+Now in state q6
+
+Expression Accepted
+
+%#.0*(32.922+.7-*9.))>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  0
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  *
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read 3
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  7
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  *
+
+The PDA crashed, expression rejected.
+
+%#(4.+(.8-9.))/2.)*3.4+(5.21/34.2>
+
+In state q0
+Symbol read:  %
+Nothing popped from the stack  %  Pushed onto the stack
+Now in state q1
+
+In state q1
+Symbol read:  #
+Nothing popped from the stack
+Nothing pushed onto the Stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read 4
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  +
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  (
+Nothing popped from the stack ( 
+Pushed onto the stack
+Now in state q4
+
+In state q3
+Symbol Read .
+
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  8
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q3
+
+In state q3
+Symbol Read  -
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  9
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: )
+(  Popped from the stack
+Nothing pushed onto the stack
+Now in state q5
+
+In state q5
+Symbol read: /
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  2
+Nothing popped from the stack
+Nothing pushed onto stack
+Now in state q2
+
+In state q2
+Symbol read:  .
+Noting popped from the stack
+Nothing pushed onto the stack
+ Now in state q3
+
+In state q3
+Symbol Read  )
+
+The PDA crashed, expression rejected.
+
